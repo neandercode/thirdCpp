@@ -10,8 +10,8 @@ void mySiblings(string fname, int age)
 
 int main()
 {
-    mySiblings("Jessica", 35);
-    mySiblings("Joshua", 34);
-    mySiblings("Joseph", 34);
+    mySiblings("Ricky", 35);
+    mySiblings("Ticky", 34);
+    mySiblings("Tavii", 34);
     return 0;
 }
