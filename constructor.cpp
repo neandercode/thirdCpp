@@ -2,12 +2,13 @@
 #include <string>
 using namespace std;
 
-class myClass{
-    public:
-        myClass() {
-            cout << "Hello World!";
-        }
-
+class myClass
+{
+public:
+    myClass()
+    {
+        cout << "Hello World!";
+    }
 };
 
 int main()
