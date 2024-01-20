@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main() 
+int main()
 {
     bool isCodingFun = true;
     bool isKaleDelicious = false;
