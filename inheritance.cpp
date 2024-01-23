@@ -23,3 +23,6 @@ int main()
     return 0;
 
 }
+
+/*I do notice that with this example, the output on vs code gives me a warning
+stating that the = sign is a c++11 extension*/
